@@ -93,6 +93,7 @@ Le **Big Data** se caractérise par les **5 V** :
 3. **Variété** : Diversité des formats et sources de données
 4. **Véracité** : Qualité et fiabilité des données
 5. **Valeur** : Capacité à extraire des insights actionnables
+6. **Vérité** :
 
 **Technologies Big Data :**
 - **Hadoop** : Framework de traitement distribué
